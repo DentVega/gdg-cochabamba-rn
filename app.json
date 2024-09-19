@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2a302a6f-f165-4c88-8458-c367bcaf32bc"
+      }
+    },
+    "owner": "bvega212"
   }
 }
